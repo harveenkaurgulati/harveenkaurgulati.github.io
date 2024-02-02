@@ -1,10 +1,10 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, R. Tableau, PowerBI
+#### Technical Skills: Python, SQL, R, Tableau, PowerBI
 
 ## Education
-- M.Sc, Data Science with Professional Year | University of Surrey (_August 2022_)
-- B.Sc, Biotechnology | The University of Manchester (_May 2019_)
+- M.Sc Data Science | University of Surrey (_August 2022_)
+- B.Sc Biotechnology | The University of Manchester (_May 2019_)
 
 ## Work Experience
 **Data Scientist @ Lonza (September 2022 - Present)**
