@@ -20,5 +20,12 @@ Acquired proficiency in R language, data cleaning, data wrangling, data visualiz
 - Established the standard performance of products via LOWESS regression model. Visualised the data in Power BI and R to gain insights and identify trends. 
 - Evaluated models via bootstrapping to calculate standard errors and confidence intervals.
 
+## Projects
+
+Analysis of the Heart Disease Dataset
+
+- Tableau: https://public.tableau.com/app/profile/harveen.kaur7309/viz/Heart_17062222992150/Dashboard1
+- EDA and Model Prediction in Jupyter notebook: 
+
 
 
