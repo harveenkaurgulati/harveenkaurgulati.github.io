@@ -24,7 +24,7 @@ Acquired proficiency in R language, data cleaning, data wrangling, data visualiz
 
 Analysis of the Heart Disease Dataset
 
-- [Tableau] (https://public.tableau.com/app/profile/harveen.kaur7309/viz/Heart_17062222992150/Dashboard1)
+- [Tableau](https://public.tableau.com/app/profile/harveen.kaur7309/viz/Heart_17062222992150/Dashboard1)
 - EDA and Model Prediction in Jupyter notebook: 
 
 
