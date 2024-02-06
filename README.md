@@ -23,8 +23,8 @@ Acquired proficiency in R language, data cleaning, data wrangling, data visualiz
 ## Personal Projects
 
 - Analysis of the Heart Disease Dataset in [Tableau](https://public.tableau.com/app/profile/harveen.kaur7309/viz/Heart_17062222992150/Dashboard1) and
-  EDA and Model Prediction in Jupyter Notebook 
-- Differential Gene Expression Analysis study on Mouse RNASeq Dataset
+  [EDA and Model Prediction in Jupyter Notebook](https://github.com/harveenkaurgulati/Heart-Disease-Dataset-Data-analysis-and-data-modelling-) 
+- Differential Gene Expression Analysis study on Mouse RNASeq Dataset (MSc Dissertation) in R language using dimensionality reduction techniques like PCA and statistical analysis
 - [Natural Language Processing on Netflix Dataset](https://github.com/harveenkaurgulati/Data-Science-Project)
 - [Classification model on the ATLAS Dataset & fitting a Poisson and Negative Binomial Distribution to Sentence Length Data](https://github.com/harveenkaurgulati/Data-Science-and-Modeling/blob/main/Data%20Science%20and%20Modeling.ipynb)
 
