@@ -1,5 +1,5 @@
 ## About Me
-#### I am a Data Scientist who is passionate about working with data to make an impact. I am skilled in analyzing datasets through data cleaning, data wrangling, visualizations, and machine learning. 
+I am a Data Scientist who is passionate about working with data to make an impact. I am skilled in analyzing datasets through data cleaning, data wrangling, visualizations, and machine learning. 
 #### Technical Skills: Python, SQL, R, Tableau, PowerBI
 
 #### Personal Projects (Click on them to access the respective file):
