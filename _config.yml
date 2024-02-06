@@ -1,3 +1,14 @@
 title: Harveen Kaur
-logo: (/photo){: style="height:150px;width:150px"}
+logo: /photo
 theme: Jekyll-theme-minimal
+
+logo {
+    width: 15%;
+    height: auto;
+}
+
+logo img {
+    width: 100%;
+    height: 100%;
+    max-height: none;
+    max-width: none;
